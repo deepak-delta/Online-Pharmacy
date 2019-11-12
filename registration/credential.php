@@ -1,6 +1,6 @@
 <?php
 
-	define("API_KEY", 'UKORcvsjD7s-NfWELTxJzEOGBr4clWzGOiUjLQDDbN');
+	define("API_KEY", '');
 
-	define("MOBILE", '9656020482');
+	define("MOBILE", '');
  ?>
